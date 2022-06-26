@@ -41,7 +41,7 @@ view the notebook and interact with it; it renders the code executable so that y
 <br>
 
 ***To view the project only, click on the link below:*** <br>
-https://nbviewer.org/github/Mo-Khalifa96/Movie-Data-Analysis/blob/35081fe3102d36845512c614d2b96928172188cd/Movie%20Data%20Analysis%20%28Jupyter%20version%29.ipynb
+https://nbviewer.org/github/Mo-Khalifa96/Movie-Data-Analysis/blob/main/Movie%20Data%20Analysis%20%28Jupyter%20version%29.ipynb
 <br>
 <br>
 ***To view the project and interact with its code, click on the link below:*** <br>
